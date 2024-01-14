@@ -18,7 +18,3 @@ while(x){
     console.log(shopingList);
 }
 
-//functions of array forEach map filter reduce
-// a.forEach((num,i,a)=>{
-//     console.log(a[i],'=',num);
-// });
