@@ -1,2 +1,3 @@
 # shopping_list
-this is a simple js program to add or delete items from the shopping list
+AUTHOR ROSHAN A
+this program show how to add and delete the items from the shopping list
